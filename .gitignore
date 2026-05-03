@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files (too large for GitHub)
+*.pkl
+*.keras
+*.h5
+*.npy
+*.joblib
+
+# Data files
+*.csv
+*.zip
+*.gz
+*.tar
+
+# Logs and reports
+logs/
+reports/
+graphs/
+shap_plots/
+quarantine/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
