@@ -27,7 +27,7 @@ across 3 benchmark datasets with SHAP explainability.
 ![SHAP](assets/shap_beeswarm.png)
 
 ### groq AI
-![GradCAM](assets/groq AI_Ask.png)
+![GradCAM](assets/groq AI Ask.png)
 
 ### Process Graph
 ![NetworkX](assets/networkx_graph.png)
